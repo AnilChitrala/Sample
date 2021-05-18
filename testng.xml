@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel = "tests" >
+<listeners>
+<listener class-name="AnilAcademy.Education.Listeners"/>
+
+</listeners>
+
+
+  <test  name="validating Title">
+    <classes>
+     <class name="AnilAcademy.Education.validatetitle"/>
+      </classes>
+  </test> 
+  
+  <test  name="validating Homepage">
+    <classes>
+     <class name="AnilAcademy.Education.HomePage"/>
+      </classes>
+  </test> 
+  
+  
+  <test  name="Validating navigationbar">
+    <classes>
+     <class name="AnilAcademy.Education.validatenavigationbar"/>
+      </classes>
+  </test> 
+  
+  
+  
+  
+  <!-- Test -->
+</suite> <!-- Suite -->

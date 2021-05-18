@@ -1,0 +1,14 @@
+19:37:38.833 [main] INFO  resources.Base - driver is Intialized
+19:37:42.189 [main] INFO  resources.Base - Navigated to homepage
+19:38:25.267 [main] INFO  resources.Base - Clicked on alert button
+19:38:25.779 [main] INFO  resources.Base - Clicked on Confirm button
+19:38:29.990 [main] INFO  resources.Base - driver is Intialized
+19:38:33.036 [main] INFO  resources.Base - Navigated to homepage
+19:38:44.569 [main] INFO  resources.Base - Entered data into box
+19:38:54.697 [main] INFO  resources.Base - Clicked on Hide Box
+19:39:22.834 [main] INFO  resources.Base - driver is Intialized
+19:39:25.585 [main] INFO  resources.Base - Navigated to homepage
+19:39:59.292 [main] INFO  resources.Base - driver is Intialized
+19:40:03.322 [main] INFO  resources.Base - Navigated to homepage
+19:40:51.287 [main] INFO  resources.Base - driver is Intialized
+19:40:52.051 [main] INFO  resources.Base - Navigated to homepage

@@ -1,0 +1,14 @@
+12:14:52.964 [main] INFO  resources.Base - second Radio button is selected
+12:14:53.131 [main] INFO  resources.Base - Third Radio button is selected
+12:15:03.770 [main] INFO  resources.Base - driver is Intialized
+12:15:12.309 [main] INFO  resources.Base - Navigated to homepage
+12:25:20.165 [main] INFO  resources.Base - driver is Intialized
+12:25:35.256 [main] INFO  resources.Base - Navigated to homepage
+13:51:25.653 [main] INFO  resources.Base - driver is Intialized
+13:52:03.163 [main] INFO  resources.Base - Navigated to homepage
+13:52:45.610 [main] INFO  resources.Base - driver is Intialized
+13:52:55.321 [main] INFO  resources.Base - Navigated to homepage
+13:54:13.015 [main] INFO  resources.Base - driver is Intialized
+13:54:20.904 [main] INFO  resources.Base - Navigated to homepage
+13:54:31.067 [main] INFO  resources.Base - first Radio button is selected
+13:54:31.190 [main] INFO  resources.Base - second Radio button is selected

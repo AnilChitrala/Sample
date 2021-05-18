@@ -1,0 +1,9 @@
+11:49:47.476 [main] INFO  resources.Base - Navigated to homepage
+11:49:58.884 [main] INFO  resources.Base - Getting data in frames 
+11:49:58.885 [main] INFO  resources.Base - contact@rahulshettyacademy.com
+11:50:00.068 [main] INFO  resources.Base - Getting Job data in frames 
+11:50:00.068 [main] INFO  resources.Base - If you are technically good, have a go-getter attitude and looking for that extra side-income, we have a bunch of part time QA Automation jobs which can be completed from the comforts of your home. We are looking for dedicated and passionate individuals who can go that extra mile to serve our customers. If this excites you, please fill the form below.
+11:50:16.789 [main] INFO  resources.Base - driver is Intialized
+11:50:20.442 [main] INFO  resources.Base - Navigated to homepage
+11:50:30.051 [main] INFO  resources.Base - Number of Rows in table is 11
+11:50:30.079 [main] INFO  resources.Base - Number of Columns in table is 3

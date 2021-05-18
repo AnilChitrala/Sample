@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite"    >
+<listeners>
+<listener class-name="AnilAcademy.Education.Listeners"/>
+
+</listeners>
+
+<test  name="validating Radiobutton">
+    <classes>
+     <class name="AnilAcademy.Education.Radiobutton"/>
+      </classes>
+  </test>
+  
+
+  
+  <test  name="validating AutoSuggestiveDropdown">
+    <classes>
+     <class name="AnilAcademy.Education.AutoSuggestiveDropdown"/>
+      </classes>
+  </test>
+  
+  <test  name="validating NormalDropdown">
+    <classes>
+     <class name="AnilAcademy.Education.NormalDropdown"/>
+      </classes>
+  </test>
+  
+  <test  name="validating Checkboxes">
+    <classes>
+     <class name="AnilAcademy.Education.Checkboxes"/>
+      </classes>
+  </test>
+  
+  <test  name="validating NewWindowClick">
+    <classes>
+     <class name="AnilAcademy.Education.NewWindow"/>
+      </classes>
+  </test>
+  
+  <test  name="validating NewTabClick">
+    <classes>
+     <class name="AnilAcademy.Education.NewTab"/>
+      </classes>
+  </test>
+  
+  <test  name="validating Alerts">
+    <classes>
+     <class name="AnilAcademy.Education.Alerts"/>
+      </classes>
+  </test>
+  
+  <test  name="validating ShowHide">
+    <classes>
+     <class name="AnilAcademy.Education.ShowHide"/>
+      </classes>
+  </test>
+  
+  <test  name="validating MouseOverActions">
+    <classes>
+     <class name="AnilAcademy.Education.MouseOverActions"/>
+      </classes>
+  </test>
+  
+  <test  name="validating FramesHandle">
+    <classes>
+     <class name="AnilAcademy.Education.FramesHandle"/>
+      </classes>
+  </test>
+  
+  
+  <test  name="validating TableData">
+    <classes>
+     <class name="AnilAcademy.Education.TableData"/>
+      </classes>
+  </test>
+  
+  <test  name="validating scrollingbar">
+    <classes>
+     <class name="AnilAcademy.Education.scrollingbar"/>
+      </classes>
+  </test>
+  
+  
+  
+  
+  
+  
+  
+  
+  <!-- Test -->
+</suite> <!-- Suite -->

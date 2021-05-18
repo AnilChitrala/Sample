@@ -1,0 +1,14 @@
+11:27:42.598 [main] INFO  resources.Base - Main Tab
+11:27:42.602 [main] INFO  resources.Base - landed on Main Tab
+11:27:45.032 [main] INFO  resources.Base - Rahul Shetty Academy
+11:27:45.032 [main] INFO  resources.Base - Switched to child Tab
+11:27:45.067 [main] INFO  resources.Base - Again Switched to Main Tab
+11:27:49.381 [main] INFO  resources.Base - driver is Intialized
+11:27:53.546 [main] INFO  resources.Base - Navigated to homepage
+11:28:01.121 [main] INFO  resources.Base - Clicked on alert button
+11:28:01.567 [main] INFO  resources.Base - Clicked on Confirm button
+11:28:05.069 [main] INFO  resources.Base - driver is Intialized
+11:28:08.864 [main] INFO  resources.Base - Navigated to homepage
+11:28:16.495 [main] INFO  resources.Base - Entered data into box
+11:28:26.707 [main] INFO  resources.Base - Clicked on Hide Box
+11:28:31.870 [main] INFO  resources.Base - Clicked on Show Box

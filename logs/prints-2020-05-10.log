@@ -1,0 +1,9 @@
+19:50:46.987 [TestNG] INFO  resources.Base - Navigated to homepage
+19:54:38.485 [TestNG] INFO  resources.Base - driver is Intialized
+19:54:38.485 [TestNG] INFO  resources.Base - driver is Intialized
+19:54:38.485 [TestNG] INFO  resources.Base - driver is Intialized
+19:55:14.849 [TestNG] INFO  resources.Base - Navigated to homepage
+19:55:14.905 [TestNG] INFO  resources.Base - Navigated to homepage
+19:55:15.852 [TestNG] INFO  resources.Base - FEATURED COURSES test is validated
+19:55:27.318 [TestNG] INFO  resources.Base - Navigated to homepage
+19:55:28.797 [TestNG] INFO  resources.Base - Links are present
